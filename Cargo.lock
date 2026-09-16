@@ -12,6 +12,8 @@ dependencies = [
  "backon",
  "dotenvy",
  "futures",
+ "serde",
+ "serde_json",
  "tokio",
  "tracing",
  "tracing-subscriber",

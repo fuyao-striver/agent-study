@@ -3,6 +3,7 @@ use tracing_subscriber::FmtSubscriber;
 
 pub mod llm;
 pub mod constants;
+pub mod tools;
 
 /// 初始化配置
 /// 加载环境变量和初始化日志系统
